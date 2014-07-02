@@ -1,1 +1,1 @@
-worker: python twitterSearchAndStream.py 
+worker: python twitterStream.py 
