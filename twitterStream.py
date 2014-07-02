@@ -3,7 +3,7 @@ import pymongo, time as T, sys
 from twython import TwythonStreamer
 from twython import Twython
 HTAG="#cibervoto" # tag para configuracao
-HTAG_=HHTAG.replace("#","NEW")
+HTAG_=HTAG.replace("#","NEW")
 
 from maccess import tw
 TWITTER_API_KEY             = tw.tak
